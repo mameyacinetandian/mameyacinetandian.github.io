@@ -113,6 +113,10 @@ h4{
     color: black;
     text-align: right;
 }
+h5{
+    color: black;
+    text-align: center;
+} 
 h1{
     color: rgb(0, 195, 255);
 }

@@ -99,4 +99,7 @@ li{
 .footer-col ul li a:hover {
        padding-left: 8px;
 }
-
+h5{
+    color: black;
+    text-align: center;
+} 
